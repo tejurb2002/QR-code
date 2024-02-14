@@ -29,7 +29,7 @@ Visit Website: https://goqr.me/api/
 - Download or clone the repository
 
 ```
-git clone https://github.com/keerti1924/QR-Code-Generator.git
+git clone https://github.com/tejurb2002/QR-Code-Generator.git
 ```
 
 - Go to the directory
@@ -41,7 +41,7 @@ git clone https://github.com/keerti1924/QR-Code-Generator.git
 
 ## Live Demo
 
-<a href="https://keerti1924.github.io/QR-Code-Generator/"><strong>QR Code Generator</strong></a>
+<a href="https://tejurb2002.github.io/QR-Code-Generator/"><strong>QR Code Generator</strong></a>
 
 ## ⭐️ Show your support 
 
