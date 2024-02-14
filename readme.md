@@ -2,7 +2,7 @@
 
 # QR-Code-Generator
 
-![QR Code Generator Desktop Demo](preview.png)
+![QR Code Generator]
 
 ## About The Project
 
@@ -27,11 +27,6 @@ Visit Website: https://goqr.me/api/
 
 
 - Download or clone the repository
-
-```
-git clone https://github.com/tejurb2002/QR-Code-Generator.git
-```
-
 - Go to the directory
 - Run the index.html file
 
@@ -39,10 +34,5 @@ git clone https://github.com/tejurb2002/QR-Code-Generator.git
 
 ![QR Code Generator Desktop Demo](screenshot1.png)
 
-## Live Demo
 
-<a href="https://tejurb2002.github.io/QR-Code-Generator/"><strong>QR Code Generator</strong></a>
 
-## ⭐️ Show your support 
-
-Give a ⭐️ if you like this project!
