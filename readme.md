@@ -32,7 +32,7 @@ Visit Website: https://goqr.me/api/
 
 ## Screenshot
 
-![QR Code Generator Desktop Demo](screenshot1.png)
+![QR Code Generator Desktop Demo](qr.webp)
 
 
 
